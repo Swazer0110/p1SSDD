@@ -1,0 +1,4 @@
+/Users/swazer/Documents/Programacion/Dist/Practica1/P1_Filemanager/CMakeFiles/rebuild_cache.dir
+/Users/swazer/Documents/Programacion/Dist/Practica1/P1_Filemanager/CMakeFiles/edit_cache.dir
+/Users/swazer/Documents/Programacion/Dist/Practica1/P1_Filemanager/CMakeFiles/mainServer.dir
+/Users/swazer/Documents/Programacion/Dist/Practica1/P1_Filemanager/CMakeFiles/mainCliente.dir
