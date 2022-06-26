@@ -1,0 +1,4 @@
+/home/wave/Utad/SD/Practica1/multMatrix/CMakeFiles/edit_cache.dir
+/home/wave/Utad/SD/Practica1/multMatrix/CMakeFiles/server_multMatrix.dir
+/home/wave/Utad/SD/Practica1/multMatrix/CMakeFiles/rebuild_cache.dir
+/home/wave/Utad/SD/Practica1/multMatrix/CMakeFiles/client_multMatrix.dir

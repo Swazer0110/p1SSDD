@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/server_multMatrix.dir/utils.cpp.o CMakeFiles/server_multMatrix.dir/server.cpp.o CMakeFiles/server_multMatrix.dir/multmatrix.cpp.o CMakeFiles/server_multMatrix.dir/multmatrix_imp.cpp.o -o server_multMatrix  -lpthread 
